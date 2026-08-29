@@ -1,0 +1,61 @@
+about:
+  description: cliamp - Terminal music player inspired by winamp 
+  license: MIT
+  homepage: http://www.cliamp.stream
+  head: de1dc4c
+  archived: false
+  latestVersion: v2.0.0-rc.2
+  collectedAt: 2026-08-29T07:16:20Z
+timeline:
+  created: 2026-02-24
+  lastCommit: 2026-08-26
+  lastRelease: 2026-08-26
+popularity:
+  star: 3828
+  watcher: 16
+  fork: 228
+  release: 156
+  contributor: 74
+  pullRequest: 53
+  issue: 174
+language:
+  Go: 2259719
+  HTML: 120177
+  Lua: 5207
+  Shell: 5083
+  Nix: 2073
+  Makefile: 1151
+totalLine: 2393410
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 5
+    mergedPR: 42
+    openPR: 12
+    closedIssue: 15
+    openIssue: 25
+    commit: 184
+  last90d:
+    since: 2026-05-31
+    release: 14
+    mergedPR: 53
+    openPR: 12
+    closedIssue: 26
+    openIssue: 30
+    commit: 253
+  last180d:
+    since: 2026-03-02
+    release: 100
+    mergedPR: 146
+    openPR: 12
+    closedIssue: 103
+    openIssue: 56
+    commit: 654
+  last360d:
+    since: 2025-09-03
+    release: 100
+    mergedPR: 157
+    openPR: 12
+    closedIssue: 118
+    openIssue: 56
+    commit: 771
