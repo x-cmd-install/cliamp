@@ -7,7 +7,7 @@ about:
   head: fc9f86d
   archived: false
   latestVersion: v2.0.1
-  collectedAt: 2026-09-04T19:51:42Z
+  collectedAt: 2026-09-04T20:52:41Z
 timeline:
   created: 2026-02-24
   lastCommit: 2026-09-02
@@ -85,5 +85,68 @@ total:
   openIssue: 64
   commit: 834
 ---
+path: /home/runner/.x-repo/github.com/bjarneo/cliamp
+collectedAt: 2026-09-04T20:52:42Z
+loc:
+  Go:
+    code: 93600
+    comments: 7389
+    blanks: 10438
+    files: 473
+  Html:
+    code: 1149
+    comments: 11
+    blanks: 15
+    files: 1
+  Svg:
+    code: 199
+    comments: 0
+    blanks: 15
+    files: 6
+  Sh:
+    code: 164
+    comments: 9
+    blanks: 21
+    files: 1
+  Toml:
+    code: 149
+    comments: 9
+    blanks: 0
+    files: 22
+  Lua:
+    code: 143
+    comments: 21
+    blanks: 21
+    files: 4
+  Nix:
+    code: 116
+    comments: 0
+    blanks: 11
+    files: 2
+  Makefile:
+    code: 32
+    comments: 0
+    blanks: 14
+    files: 1
+  Xml:
+    code: 8
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3310
+    blanks: 1399
+    files: 35
+  Text:
+    code: 0
+    comments: 8
+    blanks: 1
+    files: 2
+total:
+  code: 96860
+  comments: 10862
+  blanks: 12077
+  files: 548
 ---
 
