@@ -1,0 +1,184 @@
+about:
+  description: "cliamp - Terminal music player inspired by winamp "
+  license: MIT
+  homepage: http://www.cliamp.stream
+  head: 3354038
+  archived: false
+  latestVersion: "v2.0.1"
+  collectedAt: 2026-09-07T04:24:07Z
+timeline:
+  created: 2026-02-24
+  lastCommit: 2026-09-05
+  lastRelease: 2026-09-02
+popularity:
+  star: 4025
+  watcher: 16
+  fork: 257
+  release: 158
+  contributor: 83
+  pullRequest: 248
+  issue: 191
+language:
+  Go: 2393659
+  HTML: 123022
+  Shell: 5884
+  Lua: 5207
+  Nix: 4347
+  Makefile: 1151
+totalBytes: 2533270
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 7
+    mergedPR: 68
+    openPR: 20
+    closedIssue: 19
+    openIssue: 34
+    commit: 219
+  last60d:
+    since: 2026-07-09
+    release: 14
+    mergedPR: 73
+    openPR: 20
+    closedIssue: 26
+    openIssue: 36
+    commit: 266
+  last90d:
+    since: 2026-06-09
+    release: 15
+    mergedPR: 76
+    openPR: 20
+    closedIssue: 33
+    openIssue: 39
+    commit: 281
+  last180d:
+    since: 2026-03-11
+    release: 100
+    mergedPR: 153
+    openPR: 20
+    closedIssue: 92
+    openIssue: 61
+    commit: 589
+  last360d:
+    since: 2025-09-12
+    release: 100
+    mergedPR: 183
+    openPR: 20
+    closedIssue: 126
+    openIssue: 65
+    commit: 816
+  last720d:
+    since: 2024-09-17
+    release: 100
+    mergedPR: 183
+    openPR: 20
+    closedIssue: 126
+    openIssue: 65
+    commit: 870
+total:
+  release: 158
+  mergedPR: 183
+  openPR: 20
+  closedIssue: 126
+  openIssue: 65
+  commit: 870
+---
+path: /home/runner/.x-repo/github.com/bjarneo/cliamp
+collectedAt: 2026-09-07T04:24:09Z
+loc:
+  Go:
+    code: 96078
+    comments: 7665
+    blanks: 10669
+    files: 484
+  Html:
+    code: 1151
+    comments: 11
+    blanks: 15
+    files: 1
+  Svg:
+    code: 199
+    comments: 0
+    blanks: 15
+    files: 6
+  Sh:
+    code: 164
+    comments: 9
+    blanks: 21
+    files: 1
+  Toml:
+    code: 156
+    comments: 11
+    blanks: 0
+    files: 23
+  Lua:
+    code: 143
+    comments: 21
+    blanks: 21
+    files: 4
+  Nix:
+    code: 140
+    comments: 15
+    blanks: 13
+    files: 2
+  Makefile:
+    code: 32
+    comments: 0
+    blanks: 14
+    files: 1
+  Xml:
+    code: 8
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3347
+    blanks: 1419
+    files: 36
+  Text:
+    code: 0
+    comments: 8
+    blanks: 1
+    files: 2
+total:
+  code: 99378
+  comments: 11196
+  blanks: 12331
+  files: 561
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T04:24:10+00:00
+  platform:
+    darwin/arm64:
+      name:  cliamp-darwin-arm64
+      url:   https://github.com/bjarneo/cliamp/releases/download/v2.0.1/cliamp-darwin-arm64
+      size:  33390130
+      score: 40
+    darwin/amd64:
+      name:  cliamp-darwin-amd64
+      url:   https://github.com/bjarneo/cliamp/releases/download/v2.0.1/cliamp-darwin-amd64
+      size:  35313208
+      score: 40
+    linux/arm64:
+      name:  cliamp-linux-arm64
+      url:   https://github.com/bjarneo/cliamp/releases/download/v2.0.1/cliamp-linux-arm64
+      size:  34175264
+      score: 40
+    linux/amd64:
+      name:  cliamp-linux-amd64
+      url:   https://github.com/bjarneo/cliamp/releases/download/v2.0.1/cliamp-linux-amd64
+      size:  36477208
+      score: 40
+    win/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/amd64:
+      name:  cliamp-windows-amd64.zip
+      url:   https://github.com/bjarneo/cliamp/releases/download/v2.0.1/cliamp-windows-amd64.zip
+      size:  13365899
+      score: 45
