@@ -2,99 +2,99 @@ about:
   description: "cliamp - Terminal music player inspired by winamp "
   license: MIT
   homepage: http://www.cliamp.stream
-  head: d40cb79
+  head: 93a4ac6
   archived: false
   latestVersion: "v2.2.0"
   latestRelease: "v2.2.0"
   latestPrerelease: "v2.0.0-rc.2"
-  collectedAt: 2026-09-09T04:29:26Z
+  collectedAt: 2026-09-09T18:31:19Z
 timeline:
   created: 2026-02-24
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-08
   lastRelease: 2026-09-08
   lastPrerelease: 2026-08-26
 popularity:
-  star: 4061
+  star: 4075
   watcher: 19
-  fork: 262
+  fork: 264
   release: 160
   contributor: 85
-  pullRequest: 251
-  issue: 191
+  pullRequest: 258
+  issue: 193
 language:
-  Go: 2629272
+  Go: 2658176
   HTML: 74961
   Shell: 5884
   Lua: 5207
   Nix: 4347
   Makefile: 1151
-totalBytes: 2720822
+totalBytes: 2749726
 recent:
   last30d:
     since: 2026-08-10
     release: 9
-    mergedPR: 71
-    openPR: 17
+    mergedPR: 72
+    openPR: 22
     closedIssue: 19
-    openIssue: 34
-    commit: 242
+    openIssue: 36
+    commit: 243
   last60d:
     since: 2026-07-11
     release: 16
-    mergedPR: 76
-    openPR: 17
+    mergedPR: 77
+    openPR: 22
     closedIssue: 26
-    openIssue: 36
-    commit: 289
+    openIssue: 38
+    commit: 290
   last90d:
     since: 2026-06-11
     release: 17
-    mergedPR: 80
-    openPR: 17
+    mergedPR: 81
+    openPR: 22
     closedIssue: 32
-    openIssue: 38
-    commit: 304
+    openIssue: 40
+    commit: 305
   last180d:
     since: 2026-03-13
     release: 100
-    mergedPR: 156
-    openPR: 17
+    mergedPR: 157
+    openPR: 22
     closedIssue: 92
-    openIssue: 61
-    commit: 612
+    openIssue: 63
+    commit: 613
   last360d:
     since: 2025-09-14
     release: 100
-    mergedPR: 187
-    openPR: 17
+    mergedPR: 188
+    openPR: 22
     closedIssue: 126
-    openIssue: 65
-    commit: 839
+    openIssue: 67
+    commit: 840
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 187
-    openPR: 17
+    mergedPR: 188
+    openPR: 22
     closedIssue: 126
-    openIssue: 65
-    commit: 899
+    openIssue: 67
+    commit: 901
 total:
   release: 160
-  mergedPR: 187
-  openPR: 17
+  mergedPR: 188
+  openPR: 22
   closedIssue: 126
-  openIssue: 65
-  commit: 899
+  openIssue: 67
+  commit: 901
 ---
 path: /home/runner/.x-repo/github.com/bjarneo/cliamp
-collectedAt: 2026-09-09T04:29:28Z
+collectedAt: 2026-09-09T18:31:23Z
 loc:
   Go:
-    code: 103770
-    comments: 8157
-    blanks: 11166
-    files: 510
+    code: 104423
+    comments: 8297
+    blanks: 11254
+    files: 512
   Html:
     code: 995
     comments: 8
@@ -146,10 +146,10 @@ loc:
     blanks: 1
     files: 2
 total:
-  code: 106501
-  comments: 11878
-  blanks: 12820
-  files: 588
+  code: 107154
+  comments: 12018
+  blanks: 12908
+  files: 590
 ---
 
 ---
