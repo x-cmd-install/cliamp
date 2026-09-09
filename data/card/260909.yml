@@ -1,0 +1,155 @@
+about:
+  description: "cliamp - Terminal music player inspired by winamp "
+  license: MIT
+  homepage: http://www.cliamp.stream
+  head: d40cb79
+  archived: false
+  latestVersion: "v2.2.0"
+  latestRelease: "v2.2.0"
+  latestPrerelease: "v2.0.0-rc.2"
+  collectedAt: 2026-09-09T04:29:26Z
+timeline:
+  created: 2026-02-24
+  lastCommit: 2026-09-08
+  lastVersion: 2026-09-08
+  lastRelease: 2026-09-08
+  lastPrerelease: 2026-08-26
+popularity:
+  star: 4061
+  watcher: 19
+  fork: 262
+  release: 160
+  contributor: 85
+  pullRequest: 251
+  issue: 191
+language:
+  Go: 2629272
+  HTML: 74961
+  Shell: 5884
+  Lua: 5207
+  Nix: 4347
+  Makefile: 1151
+totalBytes: 2720822
+recent:
+  last30d:
+    since: 2026-08-10
+    release: 9
+    mergedPR: 71
+    openPR: 17
+    closedIssue: 19
+    openIssue: 34
+    commit: 242
+  last60d:
+    since: 2026-07-11
+    release: 16
+    mergedPR: 76
+    openPR: 17
+    closedIssue: 26
+    openIssue: 36
+    commit: 289
+  last90d:
+    since: 2026-06-11
+    release: 17
+    mergedPR: 80
+    openPR: 17
+    closedIssue: 32
+    openIssue: 38
+    commit: 304
+  last180d:
+    since: 2026-03-13
+    release: 100
+    mergedPR: 156
+    openPR: 17
+    closedIssue: 92
+    openIssue: 61
+    commit: 612
+  last360d:
+    since: 2025-09-14
+    release: 100
+    mergedPR: 187
+    openPR: 17
+    closedIssue: 126
+    openIssue: 65
+    commit: 839
+  last720d:
+    since: 2024-09-19
+    release: 100
+    mergedPR: 187
+    openPR: 17
+    closedIssue: 126
+    openIssue: 65
+    commit: 899
+total:
+  release: 160
+  mergedPR: 187
+  openPR: 17
+  closedIssue: 126
+  openIssue: 65
+  commit: 899
+---
+path: /home/runner/.x-repo/github.com/bjarneo/cliamp
+collectedAt: 2026-09-09T04:29:28Z
+loc:
+  Go:
+    code: 103770
+    comments: 8157
+    blanks: 11166
+    files: 510
+  Html:
+    code: 995
+    comments: 8
+    blanks: 15
+    files: 1
+  Svg:
+    code: 234
+    comments: 0
+    blanks: 0
+    files: 6
+  Sh:
+    code: 164
+    comments: 9
+    blanks: 21
+    files: 1
+  Toml:
+    code: 156
+    comments: 11
+    blanks: 0
+    files: 23
+  Lua:
+    code: 143
+    comments: 21
+    blanks: 21
+    files: 4
+  Nix:
+    code: 140
+    comments: 15
+    blanks: 13
+    files: 2
+  Makefile:
+    code: 32
+    comments: 0
+    blanks: 14
+    files: 1
+  Xml:
+    code: 8
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3541
+    blanks: 1472
+    files: 37
+  Text:
+    code: 0
+    comments: 8
+    blanks: 1
+    files: 2
+total:
+  code: 106501
+  comments: 11878
+  blanks: 12820
+  files: 588
+---
+
+---
