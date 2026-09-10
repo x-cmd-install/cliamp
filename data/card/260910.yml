@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.2.0"
   latestRelease: "v2.2.0"
   latestPrerelease: "v2.0.0-rc.2"
-  collectedAt: 2026-09-10T15:58:46Z
+  collectedAt: 2026-09-10T20:26:38Z
 timeline:
   created: 2026-02-24
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2026-08-26
 popularity:
-  star: 4089
+  star: 4095
   watcher: 18
   fork: 271
   release: 160
@@ -88,7 +88,7 @@ total:
   commit: 901
 ---
 path: /home/runner/.x-repo/github.com/bjarneo/cliamp
-collectedAt: 2026-09-10T15:58:50Z
+collectedAt: 2026-09-10T20:26:41Z
 loc:
   Go:
     code: 104423
