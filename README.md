@@ -14,12 +14,12 @@ x install cliamp
 
 ## Code insight
 
-Total: **106,509** lines of code across **544** files in the top 5 languages.
+Total: **105,989** lines of code across **544** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 104,637 | 8,315 | 11,269 | 513 |
-| Html | 995 | 8 | 15 | 1 |
+| Go | 104,797 | 8,324 | 11,280 | 513 |
+| Html | 315 | 8 | 21 | 1 |
 | Svg | 234 | 0 | 0 | 6 |
 | Sh | 164 | 9 | 21 | 1 |
 | Toml | 156 | 11 | 0 | 23 |
@@ -38,22 +38,22 @@ Total: **106,509** lines of code across **544** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,110 · **Forks**: 274 · **Open issues**: 198 · **Contributors**: 86
+- **Stars**: 4,110 · **Forks**: 274 · **Open issues**: 198 · **Contributors**: 87
 
 ## Totals (cumulative)
 
-- **Releases**: 160 · **Merged PRs**: 190 · **Open PRs**: 29 · **Closed issues**: 130 · **Open issues**: 68 · **Commits**: 904
+- **Releases**: 160 · **Merged PRs**: 192 · **Open PRs**: 26 · **Closed issues**: 130 · **Open issues**: 68 · **Commits**: 906
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 8 | 73 | 29 | 18 | 37 | 0 |
-| last60d | 2026-07-13 | 16 | 79 | 29 | 29 | 39 | 0 |
-| 90d | 2026-06-13 | 17 | 83 | 29 | 36 | 41 | 0 |
-| last180d | 2026-03-15 | 100 | 158 | 29 | 95 | 64 | 0 |
-| 360d | 2025-09-16 | 100 | 190 | 29 | 130 | 68 | 0 |
-| last720d | 2024-09-21 | 100 | 190 | 29 | 130 | 68 | 904 |
+| 30d | 2026-08-13 | 7 | 74 | 26 | 18 | 37 | 247 |
+| last60d | 2026-07-14 | 16 | 81 | 26 | 29 | 39 | 294 |
+| 90d | 2026-06-14 | 17 | 85 | 26 | 36 | 41 | 309 |
+| last180d | 2026-03-16 | 100 | 156 | 26 | 94 | 63 | 617 |
+| 360d | 2025-09-17 | 100 | 192 | 26 | 130 | 68 | 844 |
+| last720d | 2024-09-22 | 100 | 192 | 26 | 130 | 68 | 906 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for cliamp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:42:39Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:28:02Z._
