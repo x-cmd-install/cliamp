@@ -14,12 +14,12 @@ x install cliamp
 
 ## Code insight
 
-Total: **106,295** lines of code across **545** files in the top 5 languages.
+Total: **108,333** lines of code across **550** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 105,103 | 8,425 | 11,287 | 514 |
-| Html | 315 | 8 | 21 | 1 |
+| Go | 107,132 | 8,518 | 11,395 | 519 |
+| Html | 320 | 8 | 21 | 1 |
 | Svg | 234 | 0 | 0 | 6 |
 | Sh | 164 | 9 | 21 | 1 |
 | Toml | 156 | 11 | 0 | 23 |
@@ -33,27 +33,27 @@ Total: **106,295** lines of code across **545** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.2.0` (2026-09-08)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-13
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 4,128 · **Forks**: 276 · **Open issues**: 199 · **Contributors**: 90
+- **Stars**: 4,160 · **Forks**: 277 · **Open issues**: 199 · **Contributors**: 93
 
 ## Totals (cumulative)
 
-- **Releases**: 160 · **Merged PRs**: 196 · **Open PRs**: 29 · **Closed issues**: 131 · **Open issues**: 68 · **Commits**: 910
+- **Releases**: 160 · **Merged PRs**: 209 · **Open PRs**: 31 · **Closed issues**: 133 · **Open issues**: 66 · **Commits**: 926
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 6 | 76 | 29 | 17 | 36 | 251 |
-| last60d | 2026-07-15 | 16 | 85 | 29 | 29 | 39 | 298 |
-| 90d | 2026-06-15 | 16 | 89 | 29 | 37 | 41 | 313 |
-| last180d | 2026-03-17 | 100 | 160 | 29 | 93 | 63 | 621 |
-| 360d | 2025-09-18 | 100 | 196 | 29 | 131 | 68 | 848 |
-| last720d | 2024-09-23 | 100 | 196 | 29 | 131 | 68 | 910 |
+| 30d | 2026-08-15 | 6 | 88 | 31 | 19 | 34 | 178 |
+| last60d | 2026-07-16 | 16 | 98 | 31 | 31 | 37 | 279 |
+| 90d | 2026-06-16 | 16 | 102 | 31 | 39 | 39 | 325 |
+| last180d | 2026-03-18 | 99 | 171 | 31 | 92 | 59 | 606 |
+| 360d | 2025-09-19 | 100 | 209 | 31 | 133 | 66 | 861 |
+| last720d | 2024-09-24 | 100 | 209 | 31 | 133 | 66 | 926 |
 
 ## Release assets
 
@@ -67,14 +67,6 @@ Total: **106,295** lines of code across **545** files in the top 5 languages.
 | [cliamp-windows-amd64.exe](https://github.com/bjarneo/cliamp/releases/download/v2.2.0/cliamp-windows-amd64.exe) | 35.6 MiB | `native/win/x64` |
 | [cliamp-windows-amd64.zip](https://github.com/bjarneo/cliamp/releases/download/v2.2.0/cliamp-windows-amd64.zip) | 13.2 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **7** distros on [repology.org](https://repology.org/project/cliamp). **3** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `2.0.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for cliamp lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cliamp` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +76,4 @@ Install metadata for cliamp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:40:03Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:44:51Z._
