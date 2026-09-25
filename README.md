@@ -14,11 +14,11 @@ x install cliamp
 
 ## Code insight
 
-Total: **117,615** lines of code across **593** files in the top 5 languages.
+Total: **117,812** lines of code across **594** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 116,409 | 9,518 | 12,374 | 562 |
+| Go | 116,606 | 9,543 | 12,396 | 563 |
 | Html | 325 | 8 | 21 | 1 |
 | Svg | 234 | 0 | 0 | 6 |
 | Sh | 164 | 9 | 21 | 1 |
@@ -38,22 +38,22 @@ Total: **117,615** lines of code across **593** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,315 · **Forks**: 290 · **Open issues**: 216 · **Contributors**: 99
+- **Stars**: 4,333 · **Forks**: 292 · **Open issues**: 218 · **Contributors**: 99
 
 ## Totals (cumulative)
 
-- **Releases**: 160 · **Merged PRs**: 232 · **Open PRs**: 34 · **Closed issues**: 144 · **Open issues**: 72 · **Commits**: 1031
+- **Releases**: 160 · **Merged PRs**: 235 · **Open PRs**: 35 · **Closed issues**: 144 · **Open issues**: 74 · **Commits**: 1034
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 6 | 77 | 32 | 14 | 38 | 162 |
-| last60d | 2026-07-26 | 9 | 118 | 34 | 33 | 49 | 357 |
-| 90d | 2026-06-26 | 16 | 123 | 34 | 42 | 51 | 405 |
-| last180d | 2026-03-28 | 80 | 183 | 34 | 82 | 63 | 615 |
-| 360d | 2025-09-29 | 100 | 232 | 34 | 144 | 72 | 943 |
-| last720d | 2024-10-04 | 100 | 232 | 34 | 144 | 72 | 1031 |
+| 30d | 2026-08-26 | 5 | 76 | 32 | 14 | 38 | 165 |
+| last60d | 2026-07-27 | 9 | 121 | 35 | 33 | 51 | 360 |
+| 90d | 2026-06-27 | 16 | 126 | 35 | 42 | 53 | 408 |
+| last180d | 2026-03-29 | 80 | 184 | 35 | 79 | 64 | 618 |
+| 360d | 2025-09-30 | 100 | 235 | 35 | 144 | 74 | 946 |
+| last720d | 2024-10-05 | 100 | 235 | 35 | 144 | 74 | 1034 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for cliamp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:34:55Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T04:46:10Z._
