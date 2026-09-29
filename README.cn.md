@@ -14,12 +14,12 @@ x install cliamp
 
 ## 代码洞察
 
-合计: **118,298** 行代码（覆盖前 5 种语言、共 **596** 个文件）。
+合计: **118,958** 行代码（覆盖前 5 种语言、共 **599** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 117,088 | 9,579 | 12,430 | 565 |
-| Html | 329 | 8 | 21 | 1 |
+| Go | 117,758 | 9,662 | 12,502 | 568 |
+| Html | 319 | 8 | 21 | 1 |
 | Svg | 234 | 0 | 0 | 6 |
 | Sh | 164 | 9 | 21 | 1 |
 | Toml | 156 | 11 | 0 | 23 |
@@ -32,40 +32,40 @@ x install cliamp
 
 ## 发布
 
-- **最新版本**: `v2.2.0` (2026-09-08)
-- **最近提交**: 2026-09-27
+- **最新版本**: `v2.3.0` (2026-09-28)
+- **最近提交**: 2026-09-28
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 4,368 · **Fork**: 295 · **开放 issue**: 218 · **贡献者**: 101
+- **Star**: 4,381 · **Fork**: 297 · **开放 issue**: 222 · **贡献者**: 102
 
 ## 累计统计
 
-- **发布数**: 160 · **已合并 PR**: 239 · **开放 PR**: 35 · **已关闭 issue**: 145 · **开放 issue**: 73 · **提交数**: 1038
+- **发布数**: 161 · **已合并 PR**: 243 · **开放 PR**: 36 · **已关闭 issue**: 145 · **开放 issue**: 77 · **提交数**: 1045
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 4 | 74 | 32 | 14 | 29 | 117 |
-| last60d | 2026-07-30 | 9 | 124 | 35 | 34 | 50 | 363 |
-| 90d | 2026-06-30 | 16 | 129 | 35 | 42 | 51 | 404 |
-| last180d | 2026-04-01 | 67 | 184 | 35 | 80 | 63 | 567 |
-| 360d | 2025-10-03 | 100 | 239 | 35 | 145 | 73 | 950 |
-| last720d | 2024-10-08 | 100 | 239 | 35 | 145 | 73 | 1038 |
+| 30d | 2026-08-30 | 5 | 75 | 32 | 11 | 32 | 124 |
+| last60d | 2026-07-31 | 10 | 128 | 36 | 34 | 54 | 370 |
+| 90d | 2026-07-01 | 17 | 133 | 36 | 42 | 55 | 411 |
+| last180d | 2026-04-02 | 68 | 185 | 36 | 78 | 66 | 574 |
+| 360d | 2025-10-04 | 100 | 243 | 36 | 145 | 77 | 957 |
+| last720d | 2024-10-09 | 100 | 243 | 36 | 145 | 77 | 1045 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/bjarneo/cliamp/releases/download/v2.2.0/checksums.txt) | 524 B | `other` |
-| [cliamp-darwin-amd64](https://github.com/bjarneo/cliamp/releases/download/v2.2.0/cliamp-darwin-amd64) | 34.6 MiB | `native/darwin/x64` |
-| [cliamp-darwin-arm64](https://github.com/bjarneo/cliamp/releases/download/v2.2.0/cliamp-darwin-arm64) | 32.7 MiB | `native/darwin/arm64` |
-| [cliamp-linux-amd64](https://github.com/bjarneo/cliamp/releases/download/v2.2.0/cliamp-linux-amd64) | 35.7 MiB | `native/linux/x64` |
-| [cliamp-linux-arm64](https://github.com/bjarneo/cliamp/releases/download/v2.2.0/cliamp-linux-arm64) | 33.5 MiB | `native/linux/arm64` |
-| [cliamp-windows-amd64.exe](https://github.com/bjarneo/cliamp/releases/download/v2.2.0/cliamp-windows-amd64.exe) | 35.6 MiB | `native/win/x64` |
-| [cliamp-windows-amd64.zip](https://github.com/bjarneo/cliamp/releases/download/v2.2.0/cliamp-windows-amd64.zip) | 13.2 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/bjarneo/cliamp/releases/download/v2.3.0/checksums.txt) | 524 B | `other` |
+| [cliamp-darwin-amd64](https://github.com/bjarneo/cliamp/releases/download/v2.3.0/cliamp-darwin-amd64) | 36.4 MiB | `native/darwin/x64` |
+| [cliamp-darwin-arm64](https://github.com/bjarneo/cliamp/releases/download/v2.3.0/cliamp-darwin-arm64) | 33.3 MiB | `native/darwin/arm64` |
+| [cliamp-linux-amd64](https://github.com/bjarneo/cliamp/releases/download/v2.3.0/cliamp-linux-amd64) | 36.3 MiB | `native/linux/x64` |
+| [cliamp-linux-arm64](https://github.com/bjarneo/cliamp/releases/download/v2.3.0/cliamp-linux-arm64) | 34.1 MiB | `native/linux/arm64` |
+| [cliamp-windows-amd64.exe](https://github.com/bjarneo/cliamp/releases/download/v2.3.0/cliamp-windows-amd64.exe) | 36.2 MiB | `native/win/x64` |
+| [cliamp-windows-amd64.zip](https://github.com/bjarneo/cliamp/releases/download/v2.3.0/cliamp-windows-amd64.zip) | 13.4 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ cliamp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260928.yml` · 2026-09-28T05:12:56Z._
+_数据快照: `data/card/260929.yml` · 2026-09-29T05:35:04Z._
