@@ -14,12 +14,12 @@ x install cliamp
 
 ## Code insight
 
-Total: **148,132** lines of code across **736** files in the top 5 languages.
+Total: **147,827** lines of code across **738** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 146,236 | 13,382 | 14,365 | 726 |
-| Html | 985 | 8 | 15 | 1 |
+| Go | 146,598 | 13,397 | 14,393 | 728 |
+| Html | 318 | 9 | 22 | 1 |
 | Svg | 234 | 0 | 0 | 6 |
 | Sh | 164 | 9 | 21 | 1 |
 | Nix | 160 | 20 | 15 | 2 |
@@ -33,27 +33,27 @@ Total: **148,132** lines of code across **736** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.3.0` (2026-09-28)
-- **Last commit**: 2026-10-11
+- **Last commit**: 2026-10-18
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 4,489 · **Forks**: 321 · **Open issues**: 244 · **Contributors**: 110
+- **Stars**: 4,493 · **Forks**: 321 · **Open issues**: 246 · **Contributors**: 110
 
 ## Totals (cumulative)
 
-- **Releases**: 161 · **Merged PRs**: 259 · **Open PRs**: 54 · **Closed issues**: 152 · **Open issues**: 92 · **Commits**: 1722
+- **Releases**: 161 · **Merged PRs**: 259 · **Open PRs**: 55 · **Closed issues**: 153 · **Open issues**: 93 · **Commits**: 1723
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 1 | 33 | 33 | 6 | 32 | 647 |
-| last60d | 2026-08-19 | 7 | 126 | 54 | 29 | 66 | 840 |
-| 90d | 2026-07-20 | 12 | 148 | 54 | 43 | 69 | 1021 |
-| last180d | 2026-04-21 | 44 | 189 | 54 | 76 | 81 | 1188 |
-| 360d | 2025-10-23 | 100 | 259 | 54 | 152 | 92 | 1606 |
-| last720d | 2024-10-28 | 100 | 259 | 54 | 152 | 92 | 1722 |
+| 30d | 2026-09-19 | 1 | 31 | 32 | 7 | 31 | 648 |
+| last60d | 2026-08-20 | 7 | 120 | 55 | 29 | 66 | 841 |
+| 90d | 2026-07-21 | 12 | 148 | 55 | 44 | 70 | 1022 |
+| last180d | 2026-04-22 | 44 | 188 | 55 | 76 | 82 | 1189 |
+| 360d | 2025-10-24 | 100 | 259 | 55 | 153 | 93 | 1607 |
+| last720d | 2024-10-29 | 100 | 259 | 55 | 153 | 93 | 1723 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for cliamp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:19:04Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:27:55Z._
