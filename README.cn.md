@@ -14,15 +14,15 @@ x install cliamp
 
 ## 代码洞察
 
-合计: **156,735** 行代码（覆盖前 5 种语言、共 **775** 个文件）。
+合计: **158,302** 行代码（覆盖前 5 种语言、共 **781** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 155,498 | 14,535 | 15,181 | 765 |
+| Go | 157,062 | 14,610 | 15,316 | 771 |
 | Html | 326 | 9 | 22 | 1 |
 | Svg | 234 | 0 | 0 | 6 |
 | Sh | 164 | 9 | 21 | 1 |
-| Nix | 160 | 20 | 15 | 2 |
+| Nix | 163 | 23 | 15 | 2 |
 
 ## 源代码
 
@@ -32,48 +32,48 @@ x install cliamp
 
 ## 发布
 
-- **最新版本**: `v2.3.0` (2026-09-28)
-- **最近提交**: 2026-11-04
+- **最新版本**: `v2.4.0` (2026-11-05)
+- **最近提交**: 2026-11-05
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 4,571 · **Fork**: 337 · **开放 issue**: 257 · **贡献者**: 120
+- **Star**: 4,579 · **Fork**: 337 · **开放 issue**: 259 · **贡献者**: 124
 
 ## 累计统计
 
-- **发布数**: 161 · **已合并 PR**: 279 · **开放 PR**: 33 · **已关闭 issue**: 159 · **开放 issue**: 98 · **提交数**: 1766
+- **发布数**: 162 · **已合并 PR**: 288 · **开放 PR**: 25 · **已关闭 issue**: 162 · **开放 issue**: 97 · **提交数**: 1795
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 19 | 18 | 4 | 21 | 39 |
-| last60d | 2026-09-06 | 3 | 87 | 30 | 20 | 46 | 775 |
-| 90d | 2026-08-07 | 10 | 164 | 33 | 47 | 73 | 1055 |
-| last180d | 2026-05-09 | 29 | 195 | 33 | 69 | 82 | 1177 |
-| 360d | 2025-11-10 | 100 | 279 | 33 | 159 | 98 | 1642 |
-| last720d | 2024-11-15 | 100 | 279 | 33 | 159 | 98 | 1766 |
+| 30d | 2026-10-07 | 1 | 28 | 10 | 4 | 23 | 62 |
+| last60d | 2026-09-07 | 4 | 96 | 22 | 21 | 47 | 798 |
+| 90d | 2026-08-08 | 11 | 173 | 25 | 47 | 74 | 1078 |
+| last180d | 2026-05-10 | 29 | 203 | 25 | 71 | 82 | 1200 |
+| 360d | 2025-11-11 | 100 | 288 | 25 | 162 | 97 | 1665 |
+| last720d | 2024-11-16 | 100 | 288 | 25 | 162 | 97 | 1795 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/bjarneo/cliamp/releases/download/v2.3.0/checksums.txt) | 524 B | `other` |
-| [cliamp-darwin-amd64](https://github.com/bjarneo/cliamp/releases/download/v2.3.0/cliamp-darwin-amd64) | 36.4 MiB | `native/darwin/x64` |
-| [cliamp-darwin-arm64](https://github.com/bjarneo/cliamp/releases/download/v2.3.0/cliamp-darwin-arm64) | 33.3 MiB | `native/darwin/arm64` |
-| [cliamp-linux-amd64](https://github.com/bjarneo/cliamp/releases/download/v2.3.0/cliamp-linux-amd64) | 36.3 MiB | `native/linux/x64` |
-| [cliamp-linux-arm64](https://github.com/bjarneo/cliamp/releases/download/v2.3.0/cliamp-linux-arm64) | 34.1 MiB | `native/linux/arm64` |
-| [cliamp-windows-amd64.exe](https://github.com/bjarneo/cliamp/releases/download/v2.3.0/cliamp-windows-amd64.exe) | 36.2 MiB | `native/win/x64` |
-| [cliamp-windows-amd64.zip](https://github.com/bjarneo/cliamp/releases/download/v2.3.0/cliamp-windows-amd64.zip) | 13.4 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/bjarneo/cliamp/releases/download/v2.4.0/checksums.txt) | 524 B | `other` |
+| [cliamp-darwin-amd64](https://github.com/bjarneo/cliamp/releases/download/v2.4.0/cliamp-darwin-amd64) | 70.5 MiB | `native/darwin/x64` |
+| [cliamp-darwin-arm64](https://github.com/bjarneo/cliamp/releases/download/v2.4.0/cliamp-darwin-arm64) | 66.0 MiB | `native/darwin/arm64` |
+| [cliamp-linux-amd64](https://github.com/bjarneo/cliamp/releases/download/v2.4.0/cliamp-linux-amd64) | 70.1 MiB | `native/linux/x64` |
+| [cliamp-linux-arm64](https://github.com/bjarneo/cliamp/releases/download/v2.4.0/cliamp-linux-arm64) | 66.4 MiB | `native/linux/arm64` |
+| [cliamp-windows-amd64.exe](https://github.com/bjarneo/cliamp/releases/download/v2.4.0/cliamp-windows-amd64.exe) | 70.7 MiB | `native/win/x64` |
+| [cliamp-windows-amd64.zip](https://github.com/bjarneo/cliamp/releases/download/v2.4.0/cliamp-windows-amd64.zip) | 22.6 MiB | `native/win/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/cliamp) 上共有 **8** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/cliamp) 上共有 **8** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Nix unstable | `2.3.0` | ✅ latest |
+| Nix unstable | `2.3.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -84,4 +84,4 @@ cliamp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261105.yml` · 2026-11-05T06:28:46Z._
+_数据快照: `data/card/261106.yml` · 2026-11-06T06:24:10Z._
