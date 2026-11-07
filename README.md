@@ -38,22 +38,22 @@ Total: **158,302** lines of code across **781** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,579 · **Forks**: 337 · **Open issues**: 259 · **Contributors**: 124
+- **Stars**: 4,581 · **Forks**: 338 · **Open issues**: 263 · **Contributors**: 124
 
 ## Totals (cumulative)
 
-- **Releases**: 162 · **Merged PRs**: 288 · **Open PRs**: 25 · **Closed issues**: 162 · **Open issues**: 97 · **Commits**: 1795
+- **Releases**: 162 · **Merged PRs**: 288 · **Open PRs**: 26 · **Closed issues**: 162 · **Open issues**: 101 · **Commits**: 1795
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 28 | 10 | 4 | 23 | 62 |
-| last60d | 2026-09-07 | 4 | 96 | 22 | 21 | 47 | 798 |
-| 90d | 2026-08-08 | 11 | 173 | 25 | 47 | 74 | 1078 |
-| last180d | 2026-05-10 | 29 | 203 | 25 | 71 | 82 | 1200 |
-| 360d | 2025-11-11 | 100 | 288 | 25 | 162 | 97 | 1665 |
-| last720d | 2024-11-16 | 100 | 288 | 25 | 162 | 97 | 1795 |
+| 30d | 2026-10-08 | 1 | 28 | 11 | 3 | 27 | 62 |
+| last60d | 2026-09-08 | 3 | 95 | 22 | 21 | 51 | 798 |
+| 90d | 2026-08-09 | 11 | 173 | 26 | 47 | 78 | 1078 |
+| last180d | 2026-05-11 | 27 | 202 | 26 | 71 | 85 | 1200 |
+| 360d | 2025-11-12 | 100 | 288 | 26 | 162 | 101 | 1665 |
+| last720d | 2024-11-17 | 100 | 288 | 26 | 162 | 101 | 1795 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for cliamp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:24:10Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:48:51Z._
