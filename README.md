@@ -38,22 +38,22 @@ Total: **158,323** lines of code across **781** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,601 · **Forks**: 341 · **Open issues**: 265 · **Contributors**: 124
+- **Stars**: 4,607 · **Forks**: 342 · **Open issues**: 265 · **Contributors**: 124
 
 ## Totals (cumulative)
 
-- **Releases**: 162 · **Merged PRs**: 289 · **Open PRs**: 32 · **Closed issues**: 163 · **Open issues**: 102 · **Commits**: 1796
+- **Releases**: 162 · **Merged PRs**: 289 · **Open PRs**: 31 · **Closed issues**: 162 · **Open issues**: 103 · **Commits**: 1796
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 1 | 25 | 15 | 3 | 21 | 53 |
-| last60d | 2026-09-12 | 2 | 86 | 27 | 16 | 50 | 737 |
-| 90d | 2026-08-13 | 9 | 171 | 32 | 43 | 79 | 1068 |
-| last180d | 2026-05-15 | 26 | 201 | 32 | 69 | 86 | 1189 |
-| 360d | 2025-11-16 | 100 | 289 | 32 | 163 | 102 | 1666 |
-| last720d | 2024-11-21 | 100 | 289 | 32 | 163 | 102 | 1796 |
+| 30d | 2026-10-13 | 1 | 24 | 14 | 2 | 22 | 53 |
+| last60d | 2026-09-13 | 2 | 69 | 26 | 15 | 51 | 737 |
+| 90d | 2026-08-14 | 8 | 169 | 31 | 39 | 80 | 1068 |
+| last180d | 2026-05-16 | 26 | 199 | 31 | 67 | 87 | 1189 |
+| 360d | 2025-11-17 | 100 | 289 | 31 | 162 | 103 | 1666 |
+| last720d | 2024-11-22 | 100 | 289 | 31 | 162 | 103 | 1796 |
 
 ## Release assets
 
@@ -69,11 +69,11 @@ Total: **158,323** lines of code across **781** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **8** distros on [repology.org](https://repology.org/project/cliamp). **3** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **8** distros on [repology.org](https://repology.org/project/cliamp). **4** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `2.3.0` | ⚠️ outdated |
+| Nix unstable | `2.4.0` | ✅ latest |
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for cliamp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T05:57:52Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:01:09Z._
