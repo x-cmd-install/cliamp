@@ -1,12 +1,3 @@
-- repo: scoop
-  subrepo: main
-  binname: cliamp
-  visiblename: cliamp
-  version: 2.4.0
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
 - repo: altsisyphus
   srcname: cliamp
   binnames:
@@ -28,8 +19,8 @@
   srcname: cliamp
   binname: cliamp
   visiblename: cliamp
-  version: 2.4.0
-  origversion: 2.4.0-1
+  version: 2.4.1
+  origversion: 2.4.1-1
   status: newest
   summary: A retro terminal music player inspired by Winamp 2.x
   maintainers:
@@ -40,8 +31,8 @@
   srcname: cliamp-bin
   binname: cliamp-bin
   visiblename: cliamp-bin
-  version: 2.4.0
-  origversion: 2.4.0-1
+  version: 2.4.1
+  origversion: 2.4.1-1
   status: newest
   summary: A retro terminal music player inspired by Winamp 2.x
   maintainers:
@@ -84,9 +75,18 @@
   visiblename: cliamp
   version: 2.4.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Terminal Winamp - a retro terminal music player inspired by Winamp 2.x
   maintainers:
     - git+nixpkgs@mar.in
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: cliamp
+  visiblename: cliamp
+  version: 2.4.1
+  origversion: null
+  status: newest
   licenses:
     - MIT
