@@ -14,13 +14,13 @@ x install cliamp
 
 ## Code insight
 
-Total: **158,323** lines of code across **781** files in the top 5 languages.
+Total: **160,781** lines of code across **786** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 157,083 | 14,613 | 15,317 | 771 |
+| Go | 159,493 | 14,932 | 15,504 | 776 |
 | Html | 326 | 9 | 22 | 1 |
-| Svg | 234 | 0 | 0 | 6 |
+| Svg | 282 | 2 | 0 | 6 |
 | Sh | 164 | 9 | 21 | 1 |
 | Nix | 163 | 23 | 15 | 2 |
 
@@ -32,48 +32,48 @@ Total: **158,323** lines of code across **781** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.4.0` (2026-11-05)
-- **Last commit**: 2026-11-10
+- **Latest**: `v2.4.1` (2026-11-12)
+- **Last commit**: 2026-11-12
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 4,607 · **Forks**: 342 · **Open issues**: 265 · **Contributors**: 124
+- **Stars**: 4,616 · **Forks**: 344 · **Open issues**: 265 · **Contributors**: 125
 
 ## Totals (cumulative)
 
-- **Releases**: 162 · **Merged PRs**: 289 · **Open PRs**: 31 · **Closed issues**: 162 · **Open issues**: 103 · **Commits**: 1796
+- **Releases**: 163 · **Merged PRs**: 303 · **Open PRs**: 32 · **Closed issues**: 196 · **Open issues**: 69 · **Commits**: 1810
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 1 | 24 | 14 | 2 | 22 | 53 |
-| last60d | 2026-09-13 | 2 | 69 | 26 | 15 | 51 | 737 |
-| 90d | 2026-08-14 | 8 | 169 | 31 | 39 | 80 | 1068 |
-| last180d | 2026-05-16 | 26 | 199 | 31 | 67 | 87 | 1189 |
-| 360d | 2025-11-17 | 100 | 289 | 31 | 162 | 103 | 1666 |
-| last720d | 2024-11-22 | 100 | 289 | 31 | 162 | 103 | 1796 |
+| 30d | 2026-10-14 | 2 | 38 | 15 | 8 | 16 | 67 |
+| last60d | 2026-09-14 | 3 | 80 | 25 | 28 | 36 | 751 |
+| 90d | 2026-08-15 | 9 | 182 | 32 | 65 | 54 | 1082 |
+| last180d | 2026-05-17 | 25 | 213 | 32 | 94 | 60 | 1203 |
+| 360d | 2025-11-18 | 100 | 303 | 32 | 196 | 69 | 1680 |
+| last720d | 2024-11-23 | 100 | 303 | 32 | 196 | 69 | 1810 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/bjarneo/cliamp/releases/download/v2.4.0/checksums.txt) | 524 B | `other` |
-| [cliamp-darwin-amd64](https://github.com/bjarneo/cliamp/releases/download/v2.4.0/cliamp-darwin-amd64) | 70.5 MiB | `native/darwin/x64` |
-| [cliamp-darwin-arm64](https://github.com/bjarneo/cliamp/releases/download/v2.4.0/cliamp-darwin-arm64) | 66.0 MiB | `native/darwin/arm64` |
-| [cliamp-linux-amd64](https://github.com/bjarneo/cliamp/releases/download/v2.4.0/cliamp-linux-amd64) | 70.1 MiB | `native/linux/x64` |
-| [cliamp-linux-arm64](https://github.com/bjarneo/cliamp/releases/download/v2.4.0/cliamp-linux-arm64) | 66.4 MiB | `native/linux/arm64` |
-| [cliamp-windows-amd64.exe](https://github.com/bjarneo/cliamp/releases/download/v2.4.0/cliamp-windows-amd64.exe) | 70.7 MiB | `native/win/x64` |
-| [cliamp-windows-amd64.zip](https://github.com/bjarneo/cliamp/releases/download/v2.4.0/cliamp-windows-amd64.zip) | 22.6 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/bjarneo/cliamp/releases/download/v2.4.1/checksums.txt) | 524 B | `other` |
+| [cliamp-darwin-amd64](https://github.com/bjarneo/cliamp/releases/download/v2.4.1/cliamp-darwin-amd64) | 70.5 MiB | `native/darwin/x64` |
+| [cliamp-darwin-arm64](https://github.com/bjarneo/cliamp/releases/download/v2.4.1/cliamp-darwin-arm64) | 66.0 MiB | `native/darwin/arm64` |
+| [cliamp-linux-amd64](https://github.com/bjarneo/cliamp/releases/download/v2.4.1/cliamp-linux-amd64) | 70.1 MiB | `native/linux/x64` |
+| [cliamp-linux-arm64](https://github.com/bjarneo/cliamp/releases/download/v2.4.1/cliamp-linux-arm64) | 66.4 MiB | `native/linux/arm64` |
+| [cliamp-windows-amd64.exe](https://github.com/bjarneo/cliamp/releases/download/v2.4.1/cliamp-windows-amd64.exe) | 70.8 MiB | `native/win/x64` |
+| [cliamp-windows-amd64.zip](https://github.com/bjarneo/cliamp/releases/download/v2.4.1/cliamp-windows-amd64.zip) | 22.6 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **8** distros on [repology.org](https://repology.org/project/cliamp). **4** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **8** distros on [repology.org](https://repology.org/project/cliamp). **3** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `2.4.0` | ✅ latest |
+| Nix unstable | `2.4.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for cliamp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:01:09Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:26:57Z._
