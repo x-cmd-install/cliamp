@@ -5,9 +5,9 @@
     - cliamp-debuginfo
     - cliamp-desktop
   visiblename: cliamp
-  version: 2.3.0
-  origversion: 2.3.0-alt1
-  status: outdated
+  version: 2.4.1
+  origversion: 2.4.1-alt1
+  status: newest
   summary: Retro terminal music player
   maintainers:
     - medovi@altlinux.org

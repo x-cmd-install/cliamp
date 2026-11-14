@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 524,
       "digest": "sha256:ebc99b2a2e92bc1845680f688d6036b7492166e9adbcbe13efeead60659e5570",
-      "download_count": 31,
+      "download_count": 128,
       "created_at": "2026-11-12T21:19:08Z",
       "updated_at": "2026-11-12T21:19:09Z",
       "browser_download_url": "https://github.com/bjarneo/cliamp/releases/download/v2.4.1/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 73911608,
       "digest": "sha256:b78f79455e77d5048b24a24b438cbf0d41eb9e0d376e60dcca1e3d981b75c412",
-      "download_count": 4,
+      "download_count": 8,
       "created_at": "2026-11-12T21:19:08Z",
       "updated_at": "2026-11-12T21:19:15Z",
       "browser_download_url": "https://github.com/bjarneo/cliamp/releases/download/v2.4.1/cliamp-darwin-amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 69200338,
       "digest": "sha256:8fa560926d6bd7fbd93a5160917a31cdb9a86ae62db54946e8f22ae2fc0061d7",
-      "download_count": 213,
+      "download_count": 715,
       "created_at": "2026-11-12T21:19:08Z",
       "updated_at": "2026-11-12T21:19:11Z",
       "browser_download_url": "https://github.com/bjarneo/cliamp/releases/download/v2.4.1/cliamp-darwin-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 73497528,
       "digest": "sha256:cb6e9a08f2b9617d56b5e472d08d3cd68ad1312a161224a33c6f82e26c1ab2b1",
-      "download_count": 179,
+      "download_count": 580,
       "created_at": "2026-11-12T21:19:08Z",
       "updated_at": "2026-11-12T21:19:14Z",
       "browser_download_url": "https://github.com/bjarneo/cliamp/releases/download/v2.4.1/cliamp-linux-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 69651424,
       "digest": "sha256:f4e591542bb834fdff2ca21a85101e9b41a1dd35e28756eccfa1a42c265babb3",
-      "download_count": 14,
+      "download_count": 26,
       "created_at": "2026-11-12T21:19:08Z",
       "updated_at": "2026-11-12T21:19:12Z",
       "browser_download_url": "https://github.com/bjarneo/cliamp/releases/download/v2.4.1/cliamp-linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 74211328,
       "digest": "sha256:821b66d7af77ac7ee965c9c9e91bb6bdc58469db68c07231236e06378a4a8058",
-      "download_count": 18,
+      "download_count": 36,
       "created_at": "2026-11-12T21:19:08Z",
       "updated_at": "2026-11-12T21:19:12Z",
       "browser_download_url": "https://github.com/bjarneo/cliamp/releases/download/v2.4.1/cliamp-windows-amd64.exe"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 23671359,
       "digest": "sha256:88855765c4ea3b169b3d69f09cbe49492ceb5730d276f981615f42ddadad7ebc",
-      "download_count": 29,
+      "download_count": 122,
       "created_at": "2026-11-12T21:19:08Z",
       "updated_at": "2026-11-12T21:19:10Z",
       "browser_download_url": "https://github.com/bjarneo/cliamp/releases/download/v2.4.1/cliamp-windows-amd64.zip"
