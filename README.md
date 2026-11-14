@@ -38,7 +38,7 @@ Total: **160,781** lines of code across **786** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,616 · **Forks**: 344 · **Open issues**: 265 · **Contributors**: 125
+- **Stars**: 4,621 · **Forks**: 345 · **Open issues**: 265 · **Contributors**: 125
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **160,781** lines of code across **786** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 2 | 38 | 15 | 8 | 16 | 67 |
-| last60d | 2026-09-14 | 3 | 80 | 25 | 28 | 36 | 751 |
-| 90d | 2026-08-15 | 9 | 182 | 32 | 65 | 54 | 1082 |
-| last180d | 2026-05-17 | 25 | 213 | 32 | 94 | 60 | 1203 |
-| 360d | 2025-11-18 | 100 | 303 | 32 | 196 | 69 | 1680 |
-| last720d | 2024-11-23 | 100 | 303 | 32 | 196 | 69 | 1810 |
+| 30d | 2026-10-15 | 2 | 35 | 15 | 8 | 16 | 67 |
+| last60d | 2026-09-15 | 3 | 79 | 25 | 28 | 36 | 751 |
+| 90d | 2026-08-16 | 9 | 181 | 32 | 65 | 54 | 1082 |
+| last180d | 2026-05-18 | 25 | 213 | 32 | 93 | 60 | 1203 |
+| 360d | 2025-11-19 | 100 | 303 | 32 | 196 | 69 | 1680 |
+| last720d | 2024-11-24 | 100 | 303 | 32 | 196 | 69 | 1810 |
 
 ## Release assets
 
@@ -69,7 +69,7 @@ Total: **160,781** lines of code across **786** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **8** distros on [repology.org](https://repology.org/project/cliamp). **3** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **8** distros on [repology.org](https://repology.org/project/cliamp). **4** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -84,4 +84,4 @@ Install metadata for cliamp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:26:57Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:07:22Z._
